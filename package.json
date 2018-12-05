@@ -1,0 +1,15 @@
+{
+  "name": "intense",
+  "version": "1.0.0",
+  "description": "- [Youtube - TensorFlow.js with The Coding Train](https://www.youtube.com/watch?v=Qt3ZABW5lD0&list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ) - [TensorFlow - documentation](https://js.tensorflow.org/#getting-started)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^0.1.21"
+  }
+}
